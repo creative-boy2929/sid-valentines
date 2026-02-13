@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sid-valentines/static/css/main.52197497.css",
-    "main.js": "/sid-valentines/static/js/main.62083f4e.js",
+    "main.js": "/sid-valentines/static/js/main.5221072b.js",
     "static/js/453.82690199.chunk.js": "/sid-valentines/static/js/453.82690199.chunk.js",
     "static/media/img10.jpg": "/sid-valentines/static/media/img10.e662647c66e7bbb5b1c4.jpg",
     "static/media/img7.jpg": "/sid-valentines/static/media/img7.ca7dcd3be358ec485ef2.jpg",
@@ -20,11 +20,11 @@
     "static/media/img14.jpg": "/sid-valentines/static/media/img14.071a2002bd2625fe01cc.jpg",
     "index.html": "/sid-valentines/index.html",
     "main.52197497.css.map": "/sid-valentines/static/css/main.52197497.css.map",
-    "main.62083f4e.js.map": "/sid-valentines/static/js/main.62083f4e.js.map",
+    "main.5221072b.js.map": "/sid-valentines/static/js/main.5221072b.js.map",
     "453.82690199.chunk.js.map": "/sid-valentines/static/js/453.82690199.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52197497.css",
-    "static/js/main.62083f4e.js"
+    "static/js/main.5221072b.js"
   ]
 }
