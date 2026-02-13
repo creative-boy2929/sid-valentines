@@ -1,5 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
+import Snoopy from "../Snoopy.png";
 
 function HeroSlide() {
   const ref = useRef(null);
@@ -64,7 +65,7 @@ function HeroSlide() {
         >
           <div className="relative rounded-3xl overflow-hidden w-[85%] sm:w-[70%] md:w-full max-w-md md:max-w-none">
             <img
-              src="/Snoopy.png"  // 👈 better if placed in public folder
+              src={Snoopy}  // 👈 better if placed in public folder
               alt="Romantic"
               className="object-contain w-full h-[300px] sm:h-[380px] md:h-[520px]"
             />
